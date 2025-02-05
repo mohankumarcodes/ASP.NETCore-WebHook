@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Live Location Tracker</title>
+
+    <!--------Google Map API Key --------->
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDLUt1bjfa6da47J9IEi3T1sQvXc" async defer></script>
+   
+    <script>
+        async function loadLocations() {
+            const response = await fetch("http://localhost:7272/api/webhook");
+            const locations = await response.json();
+
+            const map = new google.maps.Map(document.getElementById("map"), {
+                center: { lat: 37.7749, lng: -122.4194 },
+                zoom: 12
+            });
+
+            locations.forEach(loc => {
+                new google.maps.Marker({
+                    position: { lat: loc.latitude, lng: loc.longitude },
+                    map: map,
+                    title: `User: ${loc.userId}`
+                });
+            });
+        }
+    </script>
+
+</head>
+<body onload="loadLocations()">
+    <h2>Live Location Tracker</h2>
+    <div id="map" style="width:100%; height:500px;"></div>
+</body>
+</html>

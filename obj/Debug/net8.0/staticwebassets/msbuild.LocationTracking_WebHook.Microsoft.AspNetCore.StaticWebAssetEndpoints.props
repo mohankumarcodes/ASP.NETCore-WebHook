@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/LocationTracking_WebHook/index.bhe3kfd26g.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bhe3kfd26g"},{"Name":"integrity","Value":"sha256-8RNH3Ank\u002BVHhUIhFWZc8rctpCvnYe8esN0NmkVzlrUo="},{"Name":"label","Value":"_content/LocationTracking_WebHook/index.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1185"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u00228RNH3Ank\u002BVHhUIhFWZc8rctpCvnYe8esN0NmkVzlrUo=\u0022"},{"Name":"Last-Modified","Value":"Wed, 05 Feb 2025 10:43:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/LocationTracking_WebHook/index.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-8RNH3Ank\u002BVHhUIhFWZc8rctpCvnYe8esN0NmkVzlrUo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1185"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u00228RNH3Ank\u002BVHhUIhFWZc8rctpCvnYe8esN0NmkVzlrUo=\u0022"},{"Name":"Last-Modified","Value":"Wed, 05 Feb 2025 10:43:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

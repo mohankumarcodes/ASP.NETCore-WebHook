@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LocationTracking_WebHook.props" />
+</Project>

@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Devlopment Work\\Applications\\.NET\\LocationTracking_WebHook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F80F255-A228-40D0-8E68-99E185A95AD0}|LocationTracking_WebHook.csproj|d:\\devlopment work\\applications\\.net\\locationtracking_webhook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F80F255-A228-40D0-8E68-99E185A95AD0}|LocationTracking_WebHook.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F80F255-A228-40D0-8E68-99E185A95AD0}|LocationTracking_WebHook.csproj|d:\\devlopment work\\applications\\.net\\locationtracking_webhook\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F80F255-A228-40D0-8E68-99E185A95AD0}|LocationTracking_WebHook.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F80F255-A228-40D0-8E68-99E185A95AD0}|LocationTracking_WebHook.csproj|d:\\devlopment work\\applications\\.net\\locationtracking_webhook\\controllers\\locationsendercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F80F255-A228-40D0-8E68-99E185A95AD0}|LocationTracking_WebHook.csproj|solutionrelative:controllers\\locationsendercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F80F255-A228-40D0-8E68-99E185A95AD0}|LocationTracking_WebHook.csproj|d:\\devlopment work\\applications\\.net\\locationtracking_webhook\\models\\locationupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F80F255-A228-40D0-8E68-99E185A95AD0}|LocationTracking_WebHook.csproj|solutionrelative:models\\locationupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F80F255-A228-40D0-8E68-99E185A95AD0}|LocationTracking_WebHook.csproj|d:\\devlopment work\\applications\\.net\\locationtracking_webhook\\controllers\\webhookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F80F255-A228-40D0-8E68-99E185A95AD0}|LocationTracking_WebHook.csproj|solutionrelative:controllers\\webhookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Devlopment Work\\Applications\\.NET\\LocationTracking_WebHook\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Devlopment Work\\Applications\\.NET\\LocationTracking_WebHook\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T08:21:02.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\Devlopment Work\\Applications\\.NET\\LocationTracking_WebHook\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "wwwroot\\index.html",
+              "ToolTip": "D:\\Devlopment Work\\Applications\\.NET\\LocationTracking_WebHook\\wwwroot\\index.html",
+              "RelativeToolTip": "wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-04T08:23:13.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LocationSenderController.cs",
+              "DocumentMoniker": "D:\\Devlopment Work\\Applications\\.NET\\LocationTracking_WebHook\\Controllers\\LocationSenderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LocationSenderController.cs",
+              "ToolTip": "D:\\Devlopment Work\\Applications\\.NET\\LocationTracking_WebHook\\Controllers\\LocationSenderController.cs",
+              "RelativeToolTip": "Controllers\\LocationSenderController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T08:07:54.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebHookController.cs",
+              "DocumentMoniker": "D:\\Devlopment Work\\Applications\\.NET\\LocationTracking_WebHook\\Controllers\\WebHookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WebHookController.cs",
+              "ToolTip": "D:\\Devlopment Work\\Applications\\.NET\\LocationTracking_WebHook\\Controllers\\WebHookController.cs",
+              "RelativeToolTip": "Controllers\\WebHookController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T07:46:34.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LocationUpdate.cs",
+              "DocumentMoniker": "D:\\Devlopment Work\\Applications\\.NET\\LocationTracking_WebHook\\Models\\LocationUpdate.cs",
+              "RelativeDocumentMoniker": "Models\\LocationUpdate.cs",
+              "ToolTip": "D:\\Devlopment Work\\Applications\\.NET\\LocationTracking_WebHook\\Models\\LocationUpdate.cs",
+              "RelativeToolTip": "Models\\LocationUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T05:56:35.178Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

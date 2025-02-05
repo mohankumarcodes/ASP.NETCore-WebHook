@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "CMZh2NeMZ7ODC953U4SG0pHdO/ABYLDgnoofnfaVkHU=",
+  "Source": "LocationTracking_WebHook",
+  "BasePath": "_content/LocationTracking_WebHook",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "LocationTracking_WebHook\\wwwroot",
+      "Source": "LocationTracking_WebHook",
+      "ContentRoot": "D:\\Devlopment Work\\Applications\\.NET\\LocationTracking_WebHook\\wwwroot\\",
+      "BasePath": "_content/LocationTracking_WebHook",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Devlopment Work\\Applications\\.NET\\LocationTracking_WebHook\\wwwroot\\index.html",
+      "SourceId": "LocationTracking_WebHook",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Devlopment Work\\Applications\\.NET\\LocationTracking_WebHook\\wwwroot\\",
+      "BasePath": "_content/LocationTracking_WebHook",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bhe3kfd26g",
+      "Integrity": "8RNH3Ank+VHhUIhFWZc8rctpCvnYe8esN0NmkVzlrUo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.bhe3kfd26g.html",
+      "AssetFile": "D:\\Devlopment Work\\Applications\\.NET\\LocationTracking_WebHook\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1185"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8RNH3Ank+VHhUIhFWZc8rctpCvnYe8esN0NmkVzlrUo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 10:43:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bhe3kfd26g"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8RNH3Ank+VHhUIhFWZc8rctpCvnYe8esN0NmkVzlrUo="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "D:\\Devlopment Work\\Applications\\.NET\\LocationTracking_WebHook\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1185"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8RNH3Ank+VHhUIhFWZc8rctpCvnYe8esN0NmkVzlrUo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 10:43:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8RNH3Ank+VHhUIhFWZc8rctpCvnYe8esN0NmkVzlrUo="
+        }
+      ]
+    }
+  ]
+}

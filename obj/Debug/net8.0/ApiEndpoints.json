@@ -1,0 +1,59 @@
+[
+  {
+    "ContainingType": "LocationTracking_WebHook.Controllers.LocationSenderController",
+    "Method": "SendLocationUpdate",
+    "RelativePath": "api/LocationSender",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LocationTracking_WebHook.Controllers.WebHookController",
+    "Method": "ReciveLocationUpdate",
+    "RelativePath": "api/WebHook",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "locationUpdate",
+        "Type": "LocationTracking_WebHook.Models.LocationUpdate",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LocationTracking_WebHook.Controllers.WebHookController",
+    "Method": "GetAllLocations",
+    "RelativePath": "api/WebHook",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LocationTracking_WebHook.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[LocationTracking_WebHook.WeatherForecast, LocationTracking_WebHook, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]
